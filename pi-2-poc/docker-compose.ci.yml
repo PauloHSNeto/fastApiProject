@@ -1,0 +1,8 @@
+version: "3.9"
+
+services:
+  backend:
+    image: "pi-2-poc-backend:latest"
+
+  frontend:
+    image: "pi-2-poc-frontend:latest"
